@@ -1,0 +1,17 @@
+body {
+color:#FFF;
+}
+
+img {
+	border:0;
+}
+
+#rotator {
+	-webkit-transition: all .5s linear;
+	-moz-transition: all .5s linear;
+	
+}
+#rotator:hover{
+	-webkit-transform:rotate(45deg);
+	-moz-transform:rotate(45deg);
+}
